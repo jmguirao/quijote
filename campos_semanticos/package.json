@@ -1,0 +1,22 @@
+{
+  "name": "campos_semanticos",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "campos_semanticos.tsx",
+  "scripts": {
+    "runit": "node campos_semanticos.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "@types/node": "^25.6.2",
+    "@types/node-xlsx": "^0.21.0"
+  },
+  "dependencies": {
+    "node-xlsx": "^0.24.0"
+  }
+}
